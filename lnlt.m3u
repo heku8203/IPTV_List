@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="未分组", CCTV4K
+http://192.168.50.252:4000/udp/232.0.0.89:8650
+#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="未分组", 4K欢笑剧场
+http://192.168.50.252:4000/udp/232.0.0.150:9160
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://assets.livednow.com/logo/CCTV1%E7%BB%BC%E5%90%88.png" group-title="未分组", CCTV1综合
 http://192.168.50.252:4000/udp/232.0.0.27:8808
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://assets.livednow.com/logo/CCTV2%E8%B2%A1%E7%B6%93.png" group-title="未分组", CCTV2财经
@@ -35,18 +39,6 @@ http://192.168.50.252:4000/udp/232.0.0.36:8694
 http://192.168.50.252:4000/udp/232.0.0.63:8686
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.livednow.com/logo/CCTV5%E9%AB%94%E8%82%B2%E8%B5%9B%E4%BA%8B.png" group-title="未分组", CCTV5体育赛事
 http://192.168.50.252:4000/udp/232.0.0.93:8750
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://assets.livednow.com/logo/CGTN%E8%8B%B1%E8%AF%AD%E6%96%B0%E8%81%9E.png" group-title="未分组", CGTN英语新闻
-http://192.168.50.252:4000/udp/232.0.0.201:9220
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://assets.livednow.com/logo/CGTN%E7%BA%AA%E5%BD%95%E5%9C%8B%E9%9A%9B%E7%89%88.png" group-title="未分组", CGTN纪录国际版
-http://192.168.50.252:4000/udp/232.0.0.202:9222
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://assets.livednow.com/logo/CGTN%E4%BF%84%E8%AF%AD%E5%9C%8B%E9%9A%9B.png" group-title="未分组", CGTN俄语国际
-http://192.168.50.252:4000/udp/232.0.0.43:8660
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://assets.livednow.com/logo/CGTN%E8%A5%BF%E7%8F%AD%E7%89%99%E8%AF%AD%E5%9C%8B%E9%9A%9B.png" group-title="未分组", CGTN西班牙语国际
-http://192.168.50.252:4000/udp/232.0.0.191:9200
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://assets.livednow.com/logo/CGTN%E9%98%BF%E6%8B%89%E4%BC%AF%E8%AF%AD%E5%9C%8B%E9%9A%9B.png" group-title="未分组", CGTN阿拉伯语国际
-http://192.168.50.252:4000/udp/232.0.0.8:8664
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://assets.livednow.com/logo/CGTN%E6%B3%95%E8%AF%AD%E5%9C%8B%E9%9A%9B.png" group-title="未分组", CGTN法语国际
-http://192.168.50.252:4000/udp/232.0.0.176:9170
 #EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="https://assets.livednow.com/logo/%E8%BE%BD%E5%AE%81%E8%A1%9B%E8%A6%96.png" group-title="未分组", 辽宁卫视
 http://192.168.50.252:4000/udp/232.0.0.144:9108
 #EXTINF:-1 tvg-id="6001" tvg-name="辽宁都市" tvg-logo="https://assets.livednow.com/logo/%E8%BE%BD%E5%AE%81%E9%83%BD%E5%B8%82.png" group-title="未分组", 辽宁都市
@@ -67,22 +59,6 @@ http://192.168.50.252:4000/udp/232.0.0.21:8838
 http://192.168.50.252:4000/udp/232.0.0.156:9322
 #EXTINF:-1 tvg-id="6008" tvg-name="辽宁经济" tvg-logo="https://assets.livednow.com/logo/%E8%BE%BD%E5%AE%81%E7%BB%8F%E6%B5%8E.png" group-title="未分组", 辽宁经济
 http://192.168.50.252:4000/udp/232.0.0.155:9320
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.livednow.com/logo/%E7%A7%BB%E5%8A%A8%E9%9B%BB%E8%A6%96.png" group-title="未分组", 移动电视
-http://192.168.50.252:4000/udp/232.0.0.167:9338
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.livednow.com/logo/%E5%AE%B6%E6%9C%89%E8%B4%AD%E7%89%A9.png" group-title="未分组", 家有购物
-http://192.168.50.252:4000/udp/232.0.0.109:8702
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.livednow.com/logo/%E4%BC%98%E8%B4%AD%E7%89%A9.png" group-title="未分组", 优购物
-http://192.168.50.252:4000/udp/232.0.0.54:8648
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.livednow.com/logo/%E7%9D%9B%E5%BD%A9%E7%AB%9E%E6%8A%80.png" group-title="未分组", 睛彩竞技
-http://192.168.50.252:4000/udp/232.0.0.232:9360
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.livednow.com/logo/%E7%9D%9B%E5%BD%A9%E7%AF%AE%E7%90%83.png" group-title="未分组", 睛彩篮球
-http://192.168.50.252:4000/udp/232.0.0.233:9362
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.livednow.com/logo/%E7%9D%9B%E5%BD%A9%E9%9D%92%E5%B0%91.png" group-title="未分组", 睛彩青少
-http://192.168.50.252:4000/udp/232.0.0.234:9364
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.livednow.com/logo/%E7%9D%9B%E5%BD%A9%E5%B9%BF%E5%9C%BA%E8%88%9E.png" group-title="未分组", 睛彩广场舞
-http://192.168.50.252:4000/udp/232.0.0.100:8684
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.livednow.com/logo/%E5%A4%AE%E5%B9%BF%E8%B4%AD%E7%89%A9.png" group-title="未分组", 央广购物
-http://192.168.50.252:4000/udp/232.0.0.229:9284
 #EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="https://assets.livednow.com/logo/%E4%B8%89%E6%B2%99%E8%A1%9B%E8%A6%96.png" group-title="未分组", 三沙卫视
 http://192.168.50.252:4000/udp/232.0.0.31:8654
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="https://assets.livednow.com/logo/%E5%8C%97%E4%BA%AC%E8%A1%9B%E8%A6%96.png" group-title="未分组", 北京卫视
@@ -213,10 +189,7 @@ http://192.168.50.252:4000/udp/232.0.0.26:8714
 http://192.168.50.252:4000/udp/232.0.0.152:9314
 #EXTINF:-1 tvg-id="6623" tvg-name="财富天下" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/财富天下.png" group-title="未分组", 财富天下
 http://192.168.50.252:4000/udp/232.0.0.37:8646
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="未分组", CCTV4K
-http://192.168.50.252:4000/udp/232.0.0.89:8650
-#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="未分组", 4K欢笑剧场
-http://192.168.50.252:4000/udp/232.0.0.150:9160
+
 #EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="未分组", 生活时尚
 http://192.168.50.252:4000/udp/232.0.0.125:9296
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组", 乐游高清
@@ -249,3 +222,31 @@ http://192.168.50.252:4000/udp/232.0.0.104:8632
 http://192.168.50.252:4000/udp/232.0.0.154:9318
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组", IPTV足球
 http://192.168.50.252:4000/udp/232.0.0.91:8746
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://assets.livednow.com/logo/CGTN%E8%8B%B1%E8%AF%AD%E6%96%B0%E8%81%9E.png" group-title="未分组", CGTN英语新闻
+http://192.168.50.252:4000/udp/232.0.0.201:9220
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://assets.livednow.com/logo/CGTN%E7%BA%AA%E5%BD%95%E5%9C%8B%E9%9A%9B%E7%89%88.png" group-title="未分组", CGTN纪录国际版
+http://192.168.50.252:4000/udp/232.0.0.202:9222
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://assets.livednow.com/logo/CGTN%E4%BF%84%E8%AF%AD%E5%9C%8B%E9%9A%9B.png" group-title="未分组", CGTN俄语国际
+http://192.168.50.252:4000/udp/232.0.0.43:8660
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://assets.livednow.com/logo/CGTN%E8%A5%BF%E7%8F%AD%E7%89%99%E8%AF%AD%E5%9C%8B%E9%9A%9B.png" group-title="未分组", CGTN西班牙语国际
+http://192.168.50.252:4000/udp/232.0.0.191:9200
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://assets.livednow.com/logo/CGTN%E9%98%BF%E6%8B%89%E4%BC%AF%E8%AF%AD%E5%9C%8B%E9%9A%9B.png" group-title="未分组", CGTN阿拉伯语国际
+http://192.168.50.252:4000/udp/232.0.0.8:8664
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://assets.livednow.com/logo/CGTN%E6%B3%95%E8%AF%AD%E5%9C%8B%E9%9A%9B.png" group-title="未分组", CGTN法语国际
+http://192.168.50.252:4000/udp/232.0.0.176:9170
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.livednow.com/logo/%E7%A7%BB%E5%8A%A8%E9%9B%BB%E8%A6%96.png" group-title="未分组", 移动电视
+http://192.168.50.252:4000/udp/232.0.0.167:9338
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.livednow.com/logo/%E5%AE%B6%E6%9C%89%E8%B4%AD%E7%89%A9.png" group-title="未分组", 家有购物
+http://192.168.50.252:4000/udp/232.0.0.109:8702
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.livednow.com/logo/%E4%BC%98%E8%B4%AD%E7%89%A9.png" group-title="未分组", 优购物
+http://192.168.50.252:4000/udp/232.0.0.54:8648
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.livednow.com/logo/%E7%9D%9B%E5%BD%A9%E7%AB%9E%E6%8A%80.png" group-title="未分组", 睛彩竞技
+http://192.168.50.252:4000/udp/232.0.0.232:9360
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.livednow.com/logo/%E7%9D%9B%E5%BD%A9%E7%AF%AE%E7%90%83.png" group-title="未分组", 睛彩篮球
+http://192.168.50.252:4000/udp/232.0.0.233:9362
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.livednow.com/logo/%E7%9D%9B%E5%BD%A9%E9%9D%92%E5%B0%91.png" group-title="未分组", 睛彩青少
+http://192.168.50.252:4000/udp/232.0.0.234:9364
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.livednow.com/logo/%E7%9D%9B%E5%BD%A9%E5%B9%BF%E5%9C%BA%E8%88%9E.png" group-title="未分组", 睛彩广场舞
+http://192.168.50.252:4000/udp/232.0.0.100:8684
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.livednow.com/logo/%E5%A4%AE%E5%B9%BF%E8%B4%AD%E7%89%A9.png" group-title="未分组", 央广购物
+http://192.168.50.252:4000/udp/232.0.0.229:9284
